@@ -1,0 +1,70 @@
+.covid-info {
+    padding: 20px;
+  }
+  
+  .covid-info h1 {
+    text-align: center;
+  }
+  
+  .covid-info__input {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .search-input {
+    width: 300px;
+    padding: 5px;
+    font-size: 16px;
+  }
+  
+  .search-button {
+    padding: 5px 10px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .covid-info__continents {
+    margin-top: 20px;
+  }
+  
+  .covid-info__continent {
+    margin-bottom: 10px;
+  }
+  
+  .continent-name {
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  .country-table {
+    width: 100%;
+    margin-top: 10px;
+    border-collapse: collapse;
+  }
+  
+  .country-table th,
+  .country-table td {
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .country-table th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+  }
+  
+  .covid-info__country-info {
+    margin-top: 20px;
+  }
+  
+  .covid-info__country-info table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .covid-info__country-info th,
+  .covid-info__country-info td {
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+  }
+  
